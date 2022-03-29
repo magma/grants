@@ -1,4 +1,4 @@
-# DRAFT - NOT YET APPROVED by Magma Core Foundation
+> :warning: **New applications are currently pause.** while the Magma TSC and Governing Board work to prioritize a backlog of existing applications against the available grant program budget allocation.
 
 # **GRANTS**
 
