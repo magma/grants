@@ -1,3 +1,4 @@
+[Magma Grant Proposal.pdf](https://github.com/magma/grants/files/8530447/Magma.Grant.Proposal.pdf)
 Note: this is a discussion daft of the grant program, subject to approval of the Magma Core Foundation Governing Board.
 
 # Template for Submission
